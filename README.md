@@ -15,7 +15,7 @@ This codebase implements the following features:
 
 To use this codebase, you might make a [fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) or download this repo, and implement your algorithm(s) to solve the problem.
 
-Please **make your code, data, instructions, and everything else needed to run your project also available. This is mandatory in order to allow the [Reproducibility](https://en.wikipedia.org/wiki/Reproducibility), and help other researchers**. ***Science will be grateful for!***
+Please **make your code, data, instructions, and everything else needed to run your project also available. This is mandatory in order to allow [Replication and Reproducibility](https://en.wikipedia.org/wiki/Scientific_method). Besides, it will contribute with other researchers**. ***Science will be grateful for!***
 
 --- 
 ## How to contribute to this project
